@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Welcome to my GitHub repository where I have built a Nike E-commerce User Interface (UI) using Flutter and Dart. This project showcases a sleek and modern interface for an online store, with a focus on a smooth user experience and intuitive design.
 
-A few resources to get you started if this is your first Flutter project:
+The Nike E-commerce UI includes basic functionalities such as adding an item to the cart and removing it, making it easy for users to shop and manage their purchases.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![nike app ui](https://user-images.githubusercontent.com/49684285/226085394-080231e1-2911-4a70-995c-727c5bcbd65a.png)
